@@ -5,7 +5,7 @@ body {
 
 .city{
     height: 250px;
-    background-image: url("images/landscape.jpg");
+    background-image: url("landscape.jpg");
     background-size: cover;
     padding-top: 20px;
 }

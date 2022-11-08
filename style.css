@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.city{
+    height: 250px;
+    background-image: url("images/landscape.jpg");
+    background-size: cover;
+    padding-top: 20px;
+}
+
+.pics {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.columns {
+   display: flex;
+   text-align: center;
+}
+
+.columns > div {
+    flex: 1;
+}
+
+.column {
+    padding: 10px 20px;
+}
+
+.card {
+    background-color: rgb(233, 243, 247);
+    display: flex;
+    width: 400px;
+    margin: 40px auto;
+    border-radius: 20px;
+    border: 1px solid rgb(207, 205, 205);
+    padding: 10px 20px;
+}
+
+#profile {
+    width: 150px;
+    border-radius: 10px;
+    
+}
+
